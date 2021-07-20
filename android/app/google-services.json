@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476335064217",
+    "project_id": "autologin-f1811",
+    "storage_bucket": "autologin-f1811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476335064217:android:6f00f0cff6397c77fe6408",
+        "android_client_info": {
+          "package_name": "com.chinu.autologin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476335064217-31u7jeqo2cc9h3qrrokq2io2esht1u2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chinu.autologin",
+            "certificate_hash": "5cea255f92e5851b12963a21a26e356b3af4118c"
+          }
+        },
+        {
+          "client_id": "476335064217-ean27p3e9tfqhttgf6g02gd32g43preq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAx1mNAS6K_xgOg15cRfiPhgtle6LdKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476335064217-ean27p3e9tfqhttgf6g02gd32g43preq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
